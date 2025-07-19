@@ -1,0 +1,35 @@
+body{
+    background-image: url("../images/picture2.jpg");
+}
+h1{
+    font-size: 80px;
+    margin-bottom: -20px;
+}
+p{
+    font-size: 30px;
+    margin-top: 30px;
+    font-weight: 700;
+}
+.picture0{
+    width: 90%;
+    height: auto;
+}
+.button2-1{
+    position: relative;
+    top: 150px;
+    background-color: transparent;
+    padding: 20px 50px 20px 50px;
+    font-size: 80px;
+    border-radius: 999px;
+    border-color: red;
+    border-style: solid;
+    border-width: 4px;
+    color: red;
+    transition: all 0.3s ease;
+    text-decoration:none;
+}
+.button2-1:hover{
+    background-color: red;
+    color:white;
+    transition: 0.5s;
+}
